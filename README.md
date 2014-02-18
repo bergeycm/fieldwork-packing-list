@@ -94,7 +94,7 @@ Medicine and Health
 * Sunscreen
 
 * Anti-malaria prophylaxis
-> Options include...
+> Options include Malarone
 
 * Antidiarrhoeal
 > Cipro, Immodium, rehydration salts...
