@@ -27,6 +27,7 @@ Clothes
 * Work Pants
 
 * Socks
+> SmartWool, etc.
 
 * Shoes and Boots
 
@@ -43,6 +44,11 @@ Clothes
 
 * Swimwear
 
+* Rain jacket
+
+* Flip flops
+> Buy in-country
+
 Shelter and Bedding
 -------------------
 
@@ -52,9 +58,16 @@ Shelter and Bedding
 
 * Pillow
 
-* Mosquito net
+* Heavy blanket
+> Acquire in-country if needed. Can be quite inexpensive.
 
-* Tent/air mattress
+* Mosquito net
+> Insecticide-treated
+
+* Tent
+
+* Air mattress
+> Therma-Rest, etc.
 
 Bath
 ----
@@ -63,23 +76,18 @@ Bath
 
 * Toothbrush
 
-Tools
------
+* Shampoo
+> Biodegradable and concentrated, like Dr. Bronner's
 
-* Multi-purpose tool
-
-* Headlamp
-
-* Flashlight
-
-* Compass
+* Laundry detergent
+> Biodegradable and concentrated, like Dr. Bronner's. Consider a bar instead.
 
 Computers and Other Electronics
 -------------------------------
 
 * Computer
 
-* Charger
+* Chargers
 
 * USB Jump Drive
 
@@ -87,20 +95,49 @@ Computers and Other Electronics
 
 * Power adapter
 
+* Travel adapter
+
 * Cell phone
+> Unlocked GSM phone
+
+* SIM card
+> Purchase in-country
+
+* Satellite phone
 
 * GPS
 > See "Research Gear"
 
 * Rechargeable batteries
 
+* Solar charger, inverter
+
+* Watch
+
 Packs
 -----
+
+* Backpack
+
+* Day pack
+
+* Dry bags
+
+* Ziplocs
+
+* Garbage bag
+> To hold dirty clothes, line pack, etc.
+
+* Plastic rice bags
+> Purchase in-country, surprisingly useful.
+
+* Straps and carabiners
 
 Medicine and Health
 -------------------
 
 * Sunscreen
+> Loses effectiveness after three years.
 
 * Anti-malaria prophylaxis
 > Commonly prescribed: Malarone, Doxycycline, Mefloquine (Lariam). Less common: Chloroquine, Deltaprim
@@ -109,10 +146,39 @@ Medicine and Health
 > Cipro, Immodium, rehydration salts, Pepto-Bismol...
 
 * First aid kit
-> Bandaids, moleskin, fever reducer
+> Bandaids, moleskin, 
+> Fever reducer, pain killer. Remember Tylenol is paracetamol outside of the U.S. (Mnemonic: "Why is there no Tylenol in the jungle? Because the parrots eat them all.")
+> Benadryl (check if legal, seriously illegal in Zambia for instance), Epi-Pens if needed
+> Albendazole (de-wormer) acquired in-country
+> Antibiotic cream, alcohol wipes
+> Sterile emergency travel surgery kit. Expensive, but maybe worth it in some locales. See [this](http://www.nitro-pak.com/emergency-surgical-and-suture-kit) for example.
+
+* Bug spray
+> DEET, Permethrin to treat clothes
+
+* Water purification
+Iodine tablets, UV purification/filtration systems
+
+* Evacuation insurance
+> Not expensive but potentially life-saving. Good to have medivac insurance from a specialist company even if your regular insurance says it covers evacuation.
+> Companies include [MEDEX](https://www.medexassist.com/) and [International SOS](https://www.internationalsos.com/).
+
+* Probiotics
+> Especially if on antibiotics for malaria prophylaxis
+
+* Tampons, pads
+
+* Hand sanitizer
+
+* Toilet paper
+> Acquire in-country
+
+* Tissues
+> Acquire in-country
 
 Documents and Financial Concerns
 --------------------------------
+
 * Passport
 > Check that it is valid. Beware, some countries will not grant a visa if your passport is due to expire within a certain window. Make sure there are at least two empty visa pages prior to traveling, or apply for additional pages.
 
@@ -135,10 +201,12 @@ Documents and Financial Concerns
 * Money belt
 
 * Cash
-> U.S. bills can be traded in virtually all countries. Some countries may not be willing to trade older U.S. bills (i.e., will only trade certain series) due to counterfeiting concerns.
+> U.S. bills can be traded in virtually all countries. Some countries may not be willing to trade older U.S. bills (i.e., will only trade certain series) due to counterfeiting concerns. After conversion, break into smaller bills before leaving urban areas.
 
 * Credit cards
 > Notify bank beforehand
+
+* Receipt book
 
 Food and Drink
 --------------
@@ -152,9 +220,21 @@ Food and Drink
 * Powdered drinks
 > Gatorade, Crystal Light, etc.
 
-Research Gear
--------------
+* Utensils and flatware
 
+* Jerry can for water
+> Buy in-country. Label and never fill with gasoline.
+
+Tools and Research Gear
+-----------------------
+
+* Multi-purpose tool
+
+* Headlamp
+
+* Flashlight
+
+* Compass
 * Notebooks
 
 * Dictaphone
@@ -162,3 +242,20 @@ Research Gear
 * GPS
 
 * Binoculars
+
+* Camera
+> Plus SD cards, batteries, cables.
+
+* Pens and notebooks
+> Consider Rite In Rain waterproof supplies
+
+* Sharpies
+
+* Nitrile gloves
+
+Niceties
+--------
+
+* eReader
+
+* Music player and headphones
