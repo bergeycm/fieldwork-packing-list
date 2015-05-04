@@ -1,7 +1,7 @@
 Fieldwork Packing List
 ======================
 
-A list of things to bring when undertaking biological fieldwork.
+A list of things to bring when undertaking biological fieldwork. Contributions by [Christina](http://www.christinabergey.com), [Kenny](http://www.kennychiou.com/), and Erin.
 
 <!---
 Example Main Category
@@ -22,7 +22,7 @@ Clothes
 -------
 
 * Work Shirts
-> Items you won't mind getting ruined.
+> Items you won't mind getting ruined. Consider men's dress shirts with tank top or t-shirt underneath.
 
 * Work Pants
 
@@ -30,6 +30,7 @@ Clothes
 > SmartWool, etc.
 
 * Shoes and Boots
+> You can buy Wellingtons/rainboots in the field in lieu of fancy hiking boots, which might be smart in very wet conditions.
 
 * Hats
 > With brim if you're pale and will be in sunny areas
@@ -161,12 +162,15 @@ Iodine tablets, UV purification/filtration systems
 
 * Evacuation insurance
 > Not expensive but potentially life-saving. Good to have medivac insurance from a specialist company even if your regular insurance says it covers evacuation.
-> Companies include [MEDEX](https://www.medexassist.com/) and [International SOS](https://www.internationalsos.com/).
+> Companies include [MEDEX](https://www.medexassist.com/) and there are also subscription based services if you travel internationally regularly.
 
 * Probiotics
 > Especially if on antibiotics for malaria prophylaxis
 
 * Tampons, pads
+
+* Birth control, condoms, emergency birth control
+> Doxycycline and cipro can render birth control ineffective.
 
 * Hand sanitizer
 
@@ -216,6 +220,7 @@ Food and Drink
 * Energy bars
 
 * Snacks
+> Favorite candy, powdered hot chocolate
 
 * Powdered drinks
 > Gatorade, Crystal Light, etc.
@@ -224,6 +229,8 @@ Food and Drink
 
 * Jerry can for water
 > Buy in-country. Label and never fill with gasoline.
+
+* Spices
 
 Tools and Research Gear
 -----------------------
